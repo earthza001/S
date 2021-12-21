@@ -19,6 +19,7 @@ pip install colorama
 ติดตั้งสคิป
 
 git clone https://github.com/earthza001/S
+
 ls
 
 cd S
